@@ -67,7 +67,7 @@
       }
     },
     "mu.cluster.cluster-creator-kit": {
-      "version": "file:../0000_ClusterCreatorKit-1.9.0",
+      "version": "file:../ClusterCreatorKit",
       "depth": 0,
       "source": "local",
       "dependencies": {}
